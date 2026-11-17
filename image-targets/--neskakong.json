@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 46,
+    "left": 0,
+    "width": 1490,
+    "height": 1986,
+    "isRotated": false,
+    "originalWidth": 1490,
+    "originalHeight": 2080
+  },
+  "imagePath": "image-targets/--neskakong_luminance.png",
+  "metadata": null,
+  "name": "--neskakong",
+  "resources": {
+    "originalImage": "--neskakong_original.png",
+    "croppedImage": "--neskakong_cropped.png",
+    "thumbnailImage": "--neskakong_thumbnail.png",
+    "luminanceImage": "--neskakong_luminance.png"
+  },
+  "created": 1794874418288,
+  "updated": 1794874418288
+}
